@@ -2,31 +2,6 @@
 
 A modern, responsive travel blog website showcasing destinations, photo galleries, travel stories, and more. Built with HTML and CSS featuring glassmorphism design and smooth animations.
 
-## 📸 Screenshots
-
-### Hero Section
-
-![Hero Section](screenshots/hero-section.jpg)
-
-### Popular Destinations
-
-![Destinations](screenshots/destinations.jpg)
-
-### Travel Gallery
-
-![Gallery Europe & Asia](screenshots/gallery-1.jpg)
-![Gallery Americas & Africa](screenshots/gallery-2.jpg)
-
-### About & Newsletter
-
-![About and Newsletter](screenshots/about-newsletter.jpg)
-
-### Contact & Footer
-
-![Contact and Footer](screenshots/contact-footer.jpg)
-
----
-
 ## 🎨 Features
 
 - **Responsive Navigation** - Fixed glassmorphism navbar with smooth scrolling
