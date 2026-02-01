@@ -24,7 +24,9 @@ A modern, responsive travel blog website showcasing destinations, photo gallerie
 
 ![Latest stories](https://github.com/user-attachments/assets/d129de05-50e4-4af2-bd44-b831dda1e95c)
 ![About me](https://github.com/user-attachments/assets/02967ce8-514e-435e-a17a-fd226b83b95c)
-![Join me](https://github.com/user-attachments/assets/966e844b-d6bd-4be![Contact me](https://github.com/user-attachments/assets/c751400f-2d89-40ff-97d9-b46831510f32)
+![Join me](https://github.com/user-attachments/assets/516f95e4-a645-47dc-ad64-e87bd5298ec3)
+
+![Contact me](https://github.com/user-attachments/assets/c751400f-2d89-40ff-97d9-b46831510f32)
 5-bb51-5b8ba26e9fd6)
 
 Open `Index.html` in your browser to view the website locally.
