@@ -92,14 +92,6 @@ You can deploy this website to:
 - **Vercel** - Fast static site hosting
 - **Any web server** - Upload HTML and CSS files
 
-## 👤 Author
-
-**Josh** - Travel enthusiast and explorer
-
-- Instagram: [Link](https://www.instagram.com/)
-- X (Twitter): [Link](https://x.com/)
-- YouTube: [Link](https://www.youtube.com/)
-
 ## 📄 License
 
 This project is open source and available for personal and educational use.
