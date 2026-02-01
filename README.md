@@ -15,6 +15,17 @@ A modern, responsive travel blog website showcasing destinations, photo gallerie
 - **Contact Form** - Get in touch section for visitor inquiries
 
 ## 🚀 Demo
+![Screenshot 2026-01-31 at 9 59 06 PM](https://github.com/user-attachments/assets/472ca7bb-4c2e-4388-9ab4-7686218b3913)
+
+![Popular places](https://github.com/user-attachments/assets/de3e57f8-405e-4ada-b090-74e0a7b001dc)
+
+![Screenshot 2026-02-01 at 8 00 18 PM 2](https://github.com/user-attachments/assets/fae6cdab-ca46-4ed6-9a23-d56f74e029b6)
+![Screenshot 2026-02-01 at 8 01 50 PM](https://github.com/user-attachments/assets/053d9093-22c4-426b-9f36-e04a18e105c9)
+
+![Latest stories](https://github.com/user-attachments/assets/d129de05-50e4-4af2-bd44-b831dda1e95c)
+![About me](https://github.com/user-attachments/assets/02967ce8-514e-435e-a17a-fd226b83b95c)
+![Join me](https://github.com/user-attachments/assets/966e844b-d6bd-4be![Contact me](https://github.com/user-attachments/assets/c751400f-2d89-40ff-97d9-b46831510f32)
+5-bb51-5b8ba26e9fd6)
 
 Open `Index.html` in your browser to view the website locally.
 
