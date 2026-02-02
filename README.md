@@ -1,4 +1,4 @@
-# TravelBlog 🌍
+# TravelBlog 
 
 A modern, responsive travel blog website showcasing destinations, photo galleries, travel stories, and more. Built with HTML and CSS featuring glassmorphism design and smooth animations.
 
